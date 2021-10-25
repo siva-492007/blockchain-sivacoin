@@ -1,0 +1,12 @@
+"""
+Created on Sun Oct 24 12:15:27 2021
+
+@author: Vignesh Siva
+@github: siva492007/blockchain
+"""
+
+{
+    "nodes": ["http://127.0.0.1:4928", 
+              "http://127.0.0.1:4929",
+              "http://127.0.0.1:4930"]
+}
